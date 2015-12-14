@@ -27,6 +27,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day8", "Day8\Day8.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day14", "Day14\Day14.vcxproj", "{C302C995-6D0F-47DC-AC52-FFC26A54F3DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day13", "Day13\Day13.vcxproj", "{5E822865-530F-4F8D-9833-5AC50635B526}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day7", "Day7\Day7.vcxproj", "{56991BBB-5415-4CAF-9D5F-371A685E1433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,26 @@ Global
 		{C302C995-6D0F-47DC-AC52-FFC26A54F3DC}.Release|x64.Build.0 = Release|x64
 		{C302C995-6D0F-47DC-AC52-FFC26A54F3DC}.Release|x86.ActiveCfg = Release|Win32
 		{C302C995-6D0F-47DC-AC52-FFC26A54F3DC}.Release|x86.Build.0 = Release|Win32
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Debug|x64.ActiveCfg = Debug|x64
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Debug|x64.Build.0 = Debug|x64
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Debug|x86.Build.0 = Debug|Win32
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Release|x64.ActiveCfg = Release|x64
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Release|x64.Build.0 = Release|x64
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Release|x86.ActiveCfg = Release|Win32
+		{5E822865-530F-4F8D-9833-5AC50635B526}.Release|x86.Build.0 = Release|Win32
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Debug|x64.ActiveCfg = Debug|x64
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Debug|x64.Build.0 = Debug|x64
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Debug|x86.ActiveCfg = Debug|Win32
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Debug|x86.Build.0 = Debug|Win32
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Release|Any CPU.ActiveCfg = Release|Win32
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Release|x64.ActiveCfg = Release|x64
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Release|x64.Build.0 = Release|x64
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Release|x86.ActiveCfg = Release|Win32
+		{56991BBB-5415-4CAF-9D5F-371A685E1433}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
